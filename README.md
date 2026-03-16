@@ -1534,6 +1534,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for parsing and manipulating text and numbers.*
 
 * [abacus](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+* [a2ml_ex](https://github.com/hyperpolymath/a2ml_ex) - Parser and renderer for A2ML (Attested Markup Language), an AI agent identity and attestation format.
 * [base58](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
 * [base58check](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
 * [base62](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
@@ -1572,6 +1573,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 * [inet_cidr](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
+* [k9_ex](https://github.com/hyperpolymath/k9_ex) - Parser and renderer for K9 (Self-Validating Components), configuration with trust levels and Nickel contracts.
 * [kitsune](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
@@ -1998,3 +2000,4 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.
+
